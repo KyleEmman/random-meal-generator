@@ -1,0 +1,22 @@
+.bottom-left{
+    float: left;
+    width: 250px;
+    height: 250px;
+    clear: both;
+    text-align: center;
+}
+h3, span {
+    display: block;
+    margin-top: 15px;
+}
+
+.modal-button {
+    border: none;
+    box-shadow: 1px 1px 10px gray;
+    width: 75%;
+    height: 50px;
+    border-radius: 8px;
+    padding: 0 5%;
+    margin-top: 15px;
+    cursor: pointer;
+}

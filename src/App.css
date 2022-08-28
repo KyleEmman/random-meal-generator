@@ -1,0 +1,24 @@
+.left-section {
+    text-align: center;
+    float: left;
+    width: 250px;
+}
+.left-section form {
+    margin-top: 20px;
+}
+.left-section form input, .submit-button {
+    border: none;
+    box-shadow: 1px 1px 10px gray;
+    width: 75%;
+    height: 50px;
+    border-radius: 8px;
+    padding: 0 5%;
+    margin-bottom: 20px;
+}
+.left-section form .submit-button {
+    cursor: pointer;
+    width: 85%;
+}
+.left-section form input {
+    text-align: center;
+}
